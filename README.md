@@ -12,8 +12,7 @@ This is exactly why the **Arcium Private DeFi** and **Confidential Computing** i
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Bottari
-AI-Powered Cross-Exchange Terminal
+# Bottari AI-Powered Cross-Exchange Terminal
 
 Overview
 Bottari is an arbitrage and on-chain data terminal developed for the Surf AI Studio competition. It is specifically designed to track market anomalies, such as the Kimchi Premium and on-chain liquidity imbalances.
